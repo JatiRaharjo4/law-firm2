@@ -1,4 +1,5 @@
 import "./globals.css";
+import WhatsAppButton from "./components/WhatsappButton";
 
 export const metadata = {
   title: "Law Firm",
@@ -8,7 +9,9 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>{children}
+        <WhatsAppButton />
+      </body>
     </html>
   );
 }
