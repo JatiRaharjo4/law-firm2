@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <section className="relative h-screen">
       <Image
-        src="/images/hero.jpg"
+        src="/images/kGT6S73d-oLym8zoteAucyVAxgeZv8d5pWV6_4H_Qk1UqDiWNkzzQr37fRk8LDkvRAebS-rc4YOkXzH8AoTc2s3f3euZ7dp0WY450AHveYz1Bgyx2omnOad7O06DGDpm-rbL0Hh5vJ4sXGDOr_h1silNBoSYsJ9XjmaujKQaOj0.jpg"
         alt="Law Firm"
         fill
         className="object-cover"
